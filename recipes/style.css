@@ -1,0 +1,24 @@
+body{
+    background-color: aqua;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.paragraph{
+    background-color: green;
+    color: yellow;
+    font-weight: 500;
+}
+
+.heading#one{
+    text-align: center;
+}
+.heading#two{
+    text-align: center;
+}
+.heading#five{
+    text-align: center;
+}
